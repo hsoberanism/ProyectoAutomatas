@@ -65,6 +65,7 @@
             // 
             // btnValidar
             // 
+            this.btnValidar.Enabled = false;
             this.btnValidar.Location = new System.Drawing.Point(24, 321);
             this.btnValidar.Name = "btnValidar";
             this.btnValidar.Size = new System.Drawing.Size(98, 23);

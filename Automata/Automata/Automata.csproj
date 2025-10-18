@@ -72,6 +72,7 @@
     <Compile Include="IngresoCaracteres.Designer.cs">
       <DependentUpon>IngresoCaracteres.cs</DependentUpon>
     </Compile>
+    <Compile Include="ProcesarColumnas.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CadenaEntrada.resx">
